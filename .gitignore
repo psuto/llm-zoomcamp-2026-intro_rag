@@ -1,0 +1,7 @@
+.env
+.venv
+faq.db*
+*.db-shm
+*.db-wal
+*.pyc
+uv.lock
